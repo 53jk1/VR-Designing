@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/eegst/Documents/UnityLab/VR/Proj1/Assets/scene1.unity
+  isLoaded: 1
+  isActive: 1
